@@ -2,7 +2,7 @@ import React from 'react'
 
 const maha = () => {
     return (
-        <div>maa</div>
+        <div>maha</div>
     )
 }
 
